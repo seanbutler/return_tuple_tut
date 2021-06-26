@@ -44,8 +44,7 @@ Specific types like the kind in class hierarchies may make code specific and bri
 
 We have become so well trained into returning single values over the years that this may seem weird, but give it a go and see how your code adjusts. i bet it will become more generic.
 
-The full code for this tutorial is available here [https://github.com/seanbutler/return_tuple_tut](https://github.com/seanbutler/return_tuple_tut)
-
+The full code for this tutorial is available here [https://github.com/seanbutler/return_tuple_tut](https://github.com/seanbutler/return_tuple_tut). This and other tutorials are on my blog https://www.seanbutler.net/
 
 Good Luck.
 Any questions, message me. Am happy to help.
